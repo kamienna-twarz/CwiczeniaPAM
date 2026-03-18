@@ -33,7 +33,7 @@ w teams.
 
 1. Uzupełnij MainActivity.java:
 
-  ![image5](media/image5.png)
+   ![image5](media/image5.png)
 
 1. Uzupełnij :
 
@@ -43,29 +43,29 @@ w teams.
     add), kod w pętli for możesz zamknąć w metodę, która przyda się przy
     dodawaniu nowych produktów
 
-  ![image7](media/image7.png)
+   ![image7](media/image7.png)
 
 1. Utwórz plik list_view_items.xml:
 
-  ![image8](media/image8.png)
+   ![image8](media/image8.png)
 
-1. Dodaj do onCreate() elementy \[ from \] i \[ to \]
+1. Dodaj do onCreate() elementy from i to
 
 1. Na przykład:
 
-  ![image9](media/image9.png)
+   ![image9](media/image9.png)
 
 1. Stwórz obiekt SimpleAdapter:
 
-  ![image10](media/image10.png)
+   ![image10](media/image10.png)
 
 1. Ustaw adapter zgodnie z dokumentacją:
 
-  ![image11](media/image11.png)
+   ![image11](media/image11.png)
 
 1. Na przykład:
 
-  ![image12](media/image12.png)
+   ![image12](media/image12.png)
 
 1. Wykonaj zadania:
 
@@ -88,32 +88,46 @@ w teams.
 
 c)  dodaj opcję dodania nowej pozycji listy poprzez przycisk w kształcie
     (+)
-![](media/image18.png)
-[https://developer.android.com/guide/topics/ui/dialogs](https://developer.android.com/guide/topics/ui/dialogs)
-![](media/image19.png)
-![](media/image20.png)
-Kształt dla przycisku:
-![](media/image21.png)
-oraz
-![](media/image22.png)
-d)  dodaj spiner dla wyboru nazwy obrazka:
-> ![](media/image23.png)
->
-> ![](media/image24.png)
->
-> ![](media/image25.png)
-e)  dodaj przycisk usuwający zaznaczony element listy.
-> ![](media/image26.png)
->
-> Oraz dodaj metodę na kształt:
->
-> ![](media/image27.png)
-f)  zadbaj o to, aby nowo dodany element był na liście po obrocie
-    urządzenia o 90 stopni (ShredPreferences)
-> <https://developer.android.com/training/data-storage/shared-preferences>
->
-> <https://developer.android.com/reference/android/content/SharedPreferences>
->
-> <https://developer.android.com/develop/ui/views/components/settings/use-saved-values>
 
-1. KONIEC.
+   ![image18](media/image18.png)
+
+   [https://developer.android.com/guide/topics/ui/dialogs](https://developer.android.com/guide/topics/ui/dialogs)
+
+   ![image19](media/image19.png)
+
+   ![image20](media/image20.png)
+
+   Kształt dla przycisku:
+
+   ![image21](media/image21.png)
+
+   oraz
+
+   ![image22](media/image22.png)
+
+   d)  dodaj spiner dla wyboru nazwy obrazka:
+
+   ![image23](media/image23.png)
+
+   ![image24](media/image24.png)
+
+   ![image25](media/image25.png)
+
+   e)  dodaj przycisk usuwający zaznaczony element listy.
+
+   ![image26](media/image26.png)
+
+   Oraz dodaj metodę na kształt:
+
+   ![image27](media/image27.png)
+
+   f)  zadbaj o to, aby nowo dodany element był na liście po obrocie
+       urządzenia o 90 stopni (ShredPreferences)
+
+    <https://developer.android.com/training/data-storage/shared-preferences>
+   
+    <https://developer.android.com/reference/android/content/SharedPreferences>
+
+    <https://developer.android.com/develop/ui/views/components/settings/use-saved-values>
+
+1. KONIEC.🔚
