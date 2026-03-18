@@ -1,15 +1,20 @@
-Ćwiczenia 14 -- Android studio -- SimpleAdapter, ListView
-Na koniec zajęć prześlij pliki źródłowe (.xml, .java)+ obrazek do zasobu
+# Ćwiczenia 14 -- Android studio -- SimpleAdapter, ListView
+
+💡 Na koniec zajęć prześlij pliki źródłowe (.xml, .java)+ obrazek do zasobu
 w teams.
+
 1.  Utwórz projekt o nazwie SimpleAdapter na podstawie Empty Activity,
     dobierz odpowiednie API.
-2.  Otworzyć dokumentację:
-> [https://developer.android.com/reference/android/widget/SimpleAdapter](https://developer.android.com/reference/android/widget/SimpleAdapter)
-<https://developer.android.com/reference/android/widget/ListView#summary>
-> <https://developer.android.com/reference/android/widget/AdapterView.OnItemClickListener>
-<https://developer.android.com/guide/topics/resources/string-resource>
-> <https://developer.android.com/guide/topics/ui/dialogs>
-![](media/image1.png)
+1.  Otworzyć dokumentację:
+   <[https://developer.android.com/reference/android/widget/SimpleAdapter](https://developer.android.com/reference/android/widget/SimpleAdapter)
+   <https://developer.android.com/reference/android/widget/ListView#summary>
+   <https://developer.android.com/reference/android/widget/AdapterView.OnItemClickListener>
+   <https://developer.android.com/guide/topics/resources/string-resource>
+   <https://developer.android.com/guide/topics/ui/dialogs>
+1. Efekt końcowy:
+
+   ![image1.png](media/image1.png)
+
 3.  Dodaj zależności.
 4.  Docelowo chcemy uzyskać coś na kształt, wybierz tematykę:
 5.  Dodaj w activity_main.xml listę
