@@ -80,7 +80,9 @@ w teams.
 
 1. Samodzielnie dodaj pola: telefon, państwo, miasto i ulicę.
 
-1. Dodaj nawigację dolną, możesz skorzystać z <https://github.com/gacandrzej/BottomNav>
+1. Dodaj nawigację dolną, możesz skorzystać z
+
+   <https://github.com/gacandrzej/BottomNav>
 
    ![img.png](media/image15.png)
 
@@ -90,32 +92,35 @@ w teams.
 
 1. Wykonaj:
 
-    a)  dodaj zmianę wartości, zdjęcia poprzez odświeżenie
+    - dodaj zmianę wartości, zdjęcia poprzez odświeżenie
         SwipeRefreshLayout **swipeRefreshLayout**;
         zastąp zdarzenie kliknięcia w przycisk na przeciągnięcie palcem
         **swipeRefreshLayout**.setOnRefreshListener(() -\>
 
-    b)utwórz aktywność dla innego API np.:
-      - <https://rickandmortyapi.com/api/character/>
+    - utwórz aktywność dla innego API np.:
 
-    ![img.png](media/image17.png)
+       <https://rickandmortyapi.com/api/character/>
 
-    lub
-      - lub
-      - <https://api.fbi.gov/wanted/v1/list> lub
+      ![img.png](media/image17.png)
+
+      lub
+      -
+
+      - <https://api.fbi.gov/wanted/v1/list>
+
       - <https://api.coinbase.com/v2/currencies/crypto>
 
-    ![img.png](media/image18.png)
+        ![img.png](media/image18.png)
 
-    c)  Umieść dane osób na komponencie ListView lub RecyclerView,
+    - Umieść dane osób na komponencie ListView lub RecyclerView,
         kliknięcie pozycji listy przenosi do nowej aktywności na której
         wyświetlisz zdjęcie i dane osoby
 
-    d)  zbuduj własne API: <https://www.postman.com/>
+    - zbuduj własne API: <https://www.postman.com/>
 
-    e)  skorzystaj z innej biblioteki niż Picasso
+    - skorzystaj z innej biblioteki niż Picasso
 
-    f)  zrealizuj ćwiczenie w oparciu o:
+    - zrealizuj ćwiczenie w oparciu o:
 
       - <https://developer.android.com/reference/java/util/concurrent/package-summary>
       - <https://developer.android.com/reference/java/util/concurrent/Executor>
